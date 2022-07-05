@@ -6,6 +6,7 @@
 title: Biswadeep Purkayastha # Website name
 baseURL: '' # Website URL
 
+publishDir = "docs"
 ############################
 ## LANGUAGE
 ############################
